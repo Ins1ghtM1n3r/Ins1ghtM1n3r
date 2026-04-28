@@ -43,13 +43,15 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ins1ghtM1n3r&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-pt" 
+    src="https://github-readme-stats.vercel.app/api?username=Ins1ghtM1n3r&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-pt&cache_seconds=1800" 
+    &cache_seconds=1800
   />
   <img 
     align="left" 
     alt="Linguagens mais usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ins1ghtM1n3r&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ins1ghtM1n3r&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias&cache_seconds=1800" 
+    &cache_seconds=1800
   />
 </p>
 </p>
