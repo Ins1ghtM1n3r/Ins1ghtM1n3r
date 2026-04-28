@@ -3,12 +3,12 @@
 
 <p align="left">
     <a href="https://github.com/Ins1ghtM1n3r?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Ins1ghtM1n3r?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas GitHub" 
+        src="https://img.shields.io/github/stars/Ins1ghtM1n3r?color=55960c&labelColor=488207&style=for-the-badge&logo=star&label=estrelas"
+    />
+</a>
     <a href="https://github.com/Ins1ghtM1n3r?tab=followers">
     <img 
         alt="Seguidores" 
