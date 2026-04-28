@@ -38,17 +38,17 @@
 
 <p>
 <p>
-  <img 
+    <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ins1ghtM1n3r&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_title=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Ins1ghtM1n3r&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-pt" 
   />
   <img 
     align="left" 
     alt="Linguagens mais usadas" 
-    height="150" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ins1ghtM1n3r&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias" 
   />
 </p>
